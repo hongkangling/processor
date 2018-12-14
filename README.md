@@ -8,4 +8,8 @@ java  自定义注解器开发
 [INFO] 1 error
 编译打jar包遇到上述错误解决：
 先删除：javax.annotation.processing.Processor  文件里的内容：com.demo.processor.CheckSetterProcessor
-再次执行编译，成功后再次写入com.demo.processor.CheckSetterProcessor。再次编译即可
+再次执行编译。打包成功：
+再次写入com.demo.processor.CheckSetterProcessor。
+再次编译即可
+
+如果有解决的请告知 linghongkang9@163.

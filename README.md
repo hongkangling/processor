@@ -12,4 +12,4 @@ java  自定义注解器开发
 再次写入com.demo.processor.CheckSetterProcessor。
 再次编译即可
 
-如果有解决的请告知 linghongkang9@163.
+如果有解决的请告知 linghongkang9@163.com
